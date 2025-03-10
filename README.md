@@ -2,7 +2,7 @@
 Este Challenge denominado "Amigo Secreto" es una página web en donde se llevan acabo todos los conocimientos adquiridos en los cursos de "Principiante en Programación" de  AluraLatam y Oracle. 
 <p>Realizado por José Jail Martínez Vargas.</p>
 
-ÍNDICE
+#ÍNDICE
 
 <p>1. Descripción del Proyecto.</p>
 <p>2. Demostración de Funcionaes y Aplicaciones.</p>
