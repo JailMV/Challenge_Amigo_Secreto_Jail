@@ -3,8 +3,8 @@ Este Challenge denominado "Amigo Secreto" es una página web en donde se llevan 
 
 ÍNDICE
 
-1.- Descripción del Proyecto
-2.- Demostración de Funcionaes y Aplicaciones.
+<p>1.- Descripción del Proyecto </p>
+<p>2.- Demostración de Funcionaes y Aplicaciones. </p>
 3.- Acceso del Proyecto.
 4.- Tecnologías utilizadas.
 5.- Personas contribuyentes del proyecto
