@@ -1,4 +1,4 @@
-# Challenge_Amigo_Secreto_Jail
+# Challenge_Amigo_Secreto_Jail<br>
 Este Challenge denominado "Amigo Secreto" es una página web en donde se llevan acabo todos los conocimientos adquiridos en los cursos de "Principiante en Programación" de AluraLatam y Oracle. 
 <p>Realizado por José Jail Martínez Vargas.</p>
 
@@ -59,13 +59,16 @@ Este Challenge denominado "Amigo Secreto" es una página web en donde se llevan 
 
 ## 4. Tecnologías Utilizadas.
 
-<p> ```Visual Studio Code``` JavaScript HTML CSS GIT and GitHub. </p>
+*`Visual Studio Code`* *`JavaScript`* *`HTML`* *`CSS`* *`GIT and GitHub.`*
 
 ## 5. Personas Contribuyentes del Proyecto.
 <p> Debo agradecer a Oracle y AluraLATAM por proporcionar las bases necesarias para la realización de este proyecto y por su alianza que hace posible este programa de capacitación llamado "Oracle Next Education" para el desarrollo en el futuro de la tecnología.</p>
-*Aqui va una imagen de Alura*
-*Aqui va una imagen de Oracle*
-*Aqui va una imagen del programa ONE*
+
+![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/be065104357b2b38d0de2313808d1db0de66b6ae/Alura.jpg)
+
+![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/be065104357b2b38d0de2313808d1db0de66b6ae/Oracle.jpg)
+
+![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/be065104357b2b38d0de2313808d1db0de66b6ae/ONE.jpg)
 
 ## 6. Desarrollador del Proyecto.
 ![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/6715fa86f041090320f62a628ebd09fdbf599be1/Jail.jpg)
