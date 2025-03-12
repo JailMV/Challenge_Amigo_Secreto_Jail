@@ -20,32 +20,42 @@ Este Challenge denominado "Amigo Secreto" es una página web en donde se llevan 
  ![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/1.jpg)
 
 <p>2.- Escribe el nombre del amigo que deseas agregar.</p>
-*Aqui va una imagen*
 
-<p> NOTA: Es importante considerar que debes ingresar solo puros caracteres de letra, ya que el programa NO DEJA AGREGAR NÚMEROS Y SIGNOS. </p>
-*Aqui va una Imagen*
+![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/2.jpg)
+
+<p> NOTA: Es importante considerar que debes ingresar solo puros caracteres de letra, ya que el programa NO DEJA AGREGAR NÚMEROS Y SIGNOS. </p>*
+
+![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/3.jpg)
 
 <p>3.- Cuando des click en el botón "Añadir" podrás observar como el nombre que escribiste en la caja, se agregará en una lista que podrás observar.</p>
-*Aqui va una imagen*
+
+![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/4.jpg)
 
 <p>4.- Es importante aclarar que si se quiere añadir un nombre 2 veces el sistema detectará el duplicado, es aconsejable que si existen 2 nombres iguales se pueda diferenciar acompañdo de su otro nombre o apellido. </p>
-*Aqui va una Imagen*
+
+![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/5.jpg)
 
 <p>5.- A medida que vayas añadiendo a tus amigos, se apreciará que todos los nombres que se han agregado estan en una lista vertical</p>
-*Aqui va una Imagen*
-*Aqui va otra imagen*
+
+![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/6.jpg)
 
 <p>6.- Cuando termines de ingresar a todos tus amigos y veas que no falta nadie, cada uno podra tomar el dispositivo y averiguar su amigo secreto que será asignado de manera aleatoria. Al presionar el botón "Sortear Amigo" van a ser mostrados todos los nombres hasta que todos hayan sido sorteados.</p>
-*Aquí va una Imagen*
-*Aquí va otra imagen*
+
+![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/7.jpg)
+![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/8.jpg)
 
 <p>7.- Al terminar el sorteo, se le dará click al botón "Reiniciar" para borrar todos los datos, la lista que muestra y poder inicar desde cero un nuevo sorteo con nuevos nombres. </p>
-*Aquí va una Imagen*
+
+![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/9.jpg)
 
 ## 3. Acceso al Proyecto.
 <p> Para utilizar la aplicación, solo es necesario descargar el repositorio completo y abrir el archivo llamado *Index.HTML* en tu navegador web. </p>
-*Aqui va una imagen*
+
+![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/10.jpg)
+
 <p> Con un editor de texto podrás acceder a los archivos de CSS, HTML y JavaScript donde se encuentra el código fuente. </p>
+
+![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/11.jpg)
 
 ## 4. Tecnologías Utilizadas.
 <p> Visual Studio Code JavaScript HTML CSS GIT and GitHub. </p>
@@ -57,4 +67,5 @@ Este Challenge denominado "Amigo Secreto" es una página web en donde se llevan 
 *Aqui va una imagen del programa ONE*
 
 ## 6. Desarrollador del Proyecto.
+![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/6715fa86f041090320f62a628ebd09fdbf599be1/Jail.jpg)
 <p> | José Jail Martínez Vargas | </p>
