@@ -76,7 +76,7 @@ Con un editor de texto podrás acceder a los archivos de CSS, HTML y JavaScript 
 *`Visual Studio Code`* *`JavaScript`* *`HTML`* *`CSS`* *`GIT and GitHub.`*
 
 ## 👦 6. Personas Contribuyentes del Proyecto. 🏁
-Debo agradecer Alura LATAM y Oracle por proporcionar las bases necesarias para la realización de este proyecto y por su alianza que hace posible este programa de capacitación llamado "Oracle Next Education" para el desarrollo en el futuro de la tecnología.
+Debo agradecer Alura LATAM y Oracle por proporcionarme las bases necesarias para la realización de este proyecto y por su alianza que hace posible este programa de capacitación llamado "Oracle Next Education" para el desarrollo en el futuro de la tecnología. #helloG8 #helloONEG8 #YoSoyONE #Informática <br><br>
 <img src="https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/be065104357b2b38d0de2313808d1db0de66b6ae/Alura.jpg" width=300>
 
 <img src="https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/be065104357b2b38d0de2313808d1db0de66b6ae/Oracle.jpg" width=300>
