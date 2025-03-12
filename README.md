@@ -16,7 +16,7 @@ Este Challenge denominado "Amigo Secreto" es una página web en donde se llevan 
 
 ## 2. Demostración de Funciones y Aplicaciones.
 <p>1.- Esta será la pantalla inicial: </p>
-![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/1.jpg)
+ ![Image_Alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/1.jpg)
 
 <p>2.- Escribe el nombre del amigo que deseas agregar.</p>
 *Aqui va una imagen*
