@@ -9,17 +9,17 @@ Este Challenge denominado "Amigo Secreto" es una página web en donde se llevan 
 
 ## ÍNDICE
 
-<p>1. Descripción del Proyecto.</p>
-<p>2. Demostración de Funcionaes y Aplicaciones.</p>
-<p>3. Acceso del Proyecto.
-<p>4. Tecnologías utilizadas.</p>
-<p>5. Personas contribuyentes del proyecto.</p>
-<p>6. Desarrollador del Proyecto.</p>
+- Descripción del Proyecto.
+- Demostración de Funcionaes y Aplicaciones.
+- Acceso del Proyecto.
+- Tecnologías utilizadas.
+- Personas contribuyentes del proyecto.
+- Desarrollador del Proyecto.
 
-## 1. Descripción del Proyecto.
+## 📖 1. Descripción del Proyecto. 📖
 <p>Se presenta un sistema sencillo para jugar con tus amigos.</p> <p>En esas ocasiones donde se necesita un "Amigo Invisible" o un "Juez justo", esta pequeña aplicación web te será de gran ayuda. Sin la necesidad de un papel y lapiz, ahora podrás ingresar los nombres de cada uno de los integrantes de tu grupo de amigos y asignarles un "Amigo Secreto" a cada uno de ustedes desde tu computadora, tablet o smarthphone.</p>
 
-## 2. Demostración de Funciones y Aplicaciones.
+## 🌐 2. Demostración de Funciones y Aplicaciones. 📱 
 <p>1.- Esta será la pantalla inicial: </p>
 
  ![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/1.jpg)
