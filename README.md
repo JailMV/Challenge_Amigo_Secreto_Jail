@@ -32,9 +32,11 @@ Este Challenge denominado "Amigo Secreto" es una página web en donde se llevan 
 
 <p>5.- A medida que vayas añadiendo a tus amigos, se apreciará que todos los nombres que se han agregado estan en una lista vertical</p>
 *Aqui va una Imagen*
+*Aqui va otra imagen*
 
 <p>6.- Cuando termines de ingresar a todos tus amigos y veas que no falta nadie, cada uno podra tomar el dispositivo y averiguar su amigo secreto que será asignado de manera aleatoria. Al presionar el botón "Sortear Amigo" van a ser mostrados todos los nombres hasta que todos hayan sido sorteados.</p>
 *Aquí va una Imagen*
+*Aquí va otra imagen*
 
 <p>7.- Al terminar el sorteo, se le dará click al botón "Reiniciar" para borrar todos los datos, la lista que muestra y poder inicar desde cero un nuevo sorteo con nuevos nombres. </p>
 *Aquí va una Imagen*
