@@ -13,7 +13,7 @@ Realizado por José Jail Martínez Vargas. ©
 ## ÍNDICE
 
 - Descripción del Proyecto.
-- Demostración de Funcionaes y Aplicaciones.
+- Demostración de Funciones y Aplicaciones.
 - Juega y Encuentra a tú Amigo Secreto!
 - Acceso del Proyecto.
 - Tecnologías Utilizadas.
