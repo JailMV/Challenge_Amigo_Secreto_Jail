@@ -32,7 +32,7 @@ Se presenta un sistema sencillo para jugar con tus amigos.</p> <p>En esas ocasio
 
 ![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/2.jpg)
 
-***NOTA: Es importante considerar que debes ingresar solo puros caracteres de letra, ya que el programa NO DEJA AGREGAR NÚMEROS Y SIGNOS.***
+***NOTA: Es importante considerar que debes ingresar solo puros carácteres de letra, ya que el programa NO DEJA AGREGAR NÚMEROS Y SIGNOS.***
 
 ![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/3.jpg)
 
