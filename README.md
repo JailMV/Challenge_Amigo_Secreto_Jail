@@ -58,7 +58,8 @@ Este Challenge denominado "Amigo Secreto" es una página web en donde se llevan 
 ![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/11.jpg)
 
 ## 4. Tecnologías Utilizadas.
-<p> Visual Studio Code JavaScript HTML CSS GIT and GitHub. </p>
+
+<p> ```Visual Studio Code``` JavaScript HTML CSS GIT and GitHub. </p>
 
 ## 5. Personas Contribuyentes del Proyecto.
 <p> Debo agradecer a Oracle y AluraLATAM por proporcionar las bases necesarias para la realización de este proyecto y por su alianza que hace posible este programa de capacitación llamado "Oracle Next Education" para el desarrollo en el futuro de la tecnología.</p>
