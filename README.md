@@ -21,7 +21,7 @@ Realizado por José Jail Martínez Vargas. ©
 - Desarrollador del Proyecto.
 
 ## 📖 1. Descripción del Proyecto. 📖
-Se presenta un sistema sencillo para jugar con tus amigos.</p> <p>En esas ocasiones donde se necesita un "Amigo Invisible" o un "Juez justo", esta pequeña aplicación web te será de gran ayuda. Sin la necesidad de un papel y lapiz, ahora podrás ingresar los nombres de cada uno de los integrantes de tu grupo de amigos y asignarles un "Amigo Secreto" a cada uno de ustedes desde tu computadora, tablet o smarthphone.
+Se presenta un sistema sencillo para jugar con tus amigos. En esas ocasiones donde se necesita un "Amigo Invisible" o un "Juez justo", esta pequeña aplicación web te será de gran ayuda. Sin la necesidad de un papel y lapiz, ahora podrás ingresar los nombres de cada uno de los integrantes de tu grupo de amigos y asignarles un "Amigo Secreto" a cada uno de ustedes desde tu computadora, tablet o smarthphone.
 
 ## 🌐 2. Demostración de Funciones y Aplicaciones. 📱 
 1. Esta será la pantalla inicial:
@@ -32,7 +32,7 @@ Se presenta un sistema sencillo para jugar con tus amigos.</p> <p>En esas ocasio
 
 ![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/2.jpg)
 
-***NOTA: Es importante considerar que debes ingresar solo puros carácteres de letra, ya que el programa NO DEJA AGREGAR NÚMEROS Y SIGNOS.***
+***NOTA: Es importante considerar que debes ingresar solo puros carácteres de letra, ya que el programa NO PERMITE AGREGAR NÚMEROS Y SIGNOS.***
 
 ![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/3.jpg)
 
@@ -62,7 +62,7 @@ Se presenta un sistema sencillo para jugar con tus amigos.</p> <p>En esas ocasio
 
 
 ## ✔️ 4. Acceso al Proyecto. 📥
-Para utilizar la aplicación o revisar el código en tu computadora, solo es necesario descargar este repositorio completo y abrir el archivo llamado *Index.HTML* en tu navegador web preferido.
+Para utilizar la aplicación o revisar el código en tu computadora, solo es necesario descargar este repositorio completo y abrir el archivo llamado ***INDEX.HTML*** en tu navegador web preferido.
 
 ![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/10.jpg)
 
