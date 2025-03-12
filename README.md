@@ -1,3 +1,8 @@
+<p align="left">
+   <img src="https://img.shields.io/badge/STATUS-%20CONCLUIDO-blue">
+   </p>
+
+
 # Challenge_Amigo_Secreto_Jail<br>
 Este Challenge denominado "Amigo Secreto" es una página web en donde se llevan acabo todos los conocimientos adquiridos en los cursos de "Principiante en Programación" de AluraLatam y Oracle. 
 <p>Realizado por José Jail Martínez Vargas.</p>
@@ -71,5 +76,6 @@ Este Challenge denominado "Amigo Secreto" es una página web en donde se llevan 
 ![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/be065104357b2b38d0de2313808d1db0de66b6ae/ONE.jpg)
 
 ## 6. Desarrollador del Proyecto.
-![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/6715fa86f041090320f62a628ebd09fdbf599be1/Jail.jpg)
-<p> | José Jail Martínez Vargas | </p>
+| [<img src="https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/f40edf68f2658009b156648bad3fac6dc5bf3953/Jail.jpg" width=400><br><sub> José Jail Martínez Vargas </sub>](https://github.com/JailMV) | 
+| :---: 
+
