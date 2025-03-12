@@ -3,7 +3,7 @@
    </p>
 
 
-# Challenge_Amigo_Secreto_Jail<br>
+# :construction: Challenge_Amigo_Secreto_Jail :trophy: <br>
 Este Challenge denominado "Amigo Secreto" es una página web en donde se llevan acabo todos los conocimientos adquiridos en los cursos de "Principiante en Programación" de AluraLatam y Oracle. 
 <p>Realizado por José Jail Martínez Vargas.</p>
 
@@ -53,6 +53,10 @@ Este Challenge denominado "Amigo Secreto" es una página web en donde se llevan 
 
 ![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/9.jpg)
 
+## :video_game: ¡Juega y encuentra a tú amigo secreto! :star2:
+*Da click aqui:* [Amigo Secreto Jail](https://challenge-amigo-secreto-jail.vercel.app/) 👈
+
+
 ## 3. Acceso al Proyecto.
 <p> Para utilizar la aplicación, solo es necesario descargar el repositorio completo y abrir el archivo llamado *Index.HTML* en tu navegador web. </p>
 
@@ -62,20 +66,18 @@ Este Challenge denominado "Amigo Secreto" es una página web en donde se llevan 
 
 ![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/741a64605cee7b4f8a560020b8ea0bad49eb08b5/paso%20a%20paso/11.jpg)
 
-## 4. Tecnologías Utilizadas.
+## :hammer: 4. Tecnologías Utilizadas. :computer: 
 
 *`Visual Studio Code`* *`JavaScript`* *`HTML`* *`CSS`* *`GIT and GitHub.`*
 
 ## 5. Personas Contribuyentes del Proyecto.
-<p> Debo agradecer a Oracle y AluraLATAM por proporcionar las bases necesarias para la realización de este proyecto y por su alianza que hace posible este programa de capacitación llamado "Oracle Next Education" para el desarrollo en el futuro de la tecnología.</p>
+<p> Debo agradecer Alura LATAM y Oracle por proporcionar las bases necesarias para la realización de este proyecto y por su alianza que hace posible este programa de capacitación llamado "Oracle Next Education" para el desarrollo en el futuro de la tecnología.</p>
+<img src="https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/be065104357b2b38d0de2313808d1db0de66b6ae/Alura.jpg" width=300>
 
-![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/be065104357b2b38d0de2313808d1db0de66b6ae/Alura.jpg)
+<img src="https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/be065104357b2b38d0de2313808d1db0de66b6ae/Oracle.jpg" width=300>
 
-![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/be065104357b2b38d0de2313808d1db0de66b6ae/Oracle.jpg)
+<img src="https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/be065104357b2b38d0de2313808d1db0de66b6ae/ONE.jpg" width=300>
 
-![image alt](https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/be065104357b2b38d0de2313808d1db0de66b6ae/ONE.jpg)
-
-## 6. Desarrollador del Proyecto.
-| [<img src="https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/f40edf68f2658009b156648bad3fac6dc5bf3953/Jail.jpg" width=400><br><sub> José Jail Martínez Vargas </sub>](https://github.com/JailMV) | 
+## :cd: 6. Desarrollador del Proyecto. 
+| [<img src="https://github.com/JailMV/Challenge_Amigo_Secreto_Jail/blob/f40edf68f2658009b156648bad3fac6dc5bf3953/Jail.jpg" width=350><br><sub> José Jail Martínez Vargas </sub>](https://github.com/JailMV) | 
 | :---: 
-
